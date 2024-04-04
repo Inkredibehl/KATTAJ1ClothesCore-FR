@@ -1,0 +1,23 @@
+IG_UI_FR = {
+	IGUI_HotbarAttachment_KATTAJ1HelmetWithMount = "KATTAJ1 Support de Casque"
+	IGUI_HotbarAttachment_KATTAJ1hipLeftHolster = "Holster de hanche gauche",
+	IGUI_HotbarAttachment_KATTAJ1hipArmorLeftHolster = "Holster de hanche sur l'armure gauche",
+	IGUI_HotbarAttachment_KATTAJ1beltLeftHolster = "Holster de ceinture gauche",
+	IGUI_HotbarAttachment_KATTAJ1hipRightHolster = "Holster de hanche droit",
+	IGUI_HotbarAttachment_KATTAJ1hipArmorRightHolster = "Holster de hanche sur l'armure droite",
+	IGUI_HotbarAttachment_KATTAJ1beltRightHolster = "Holster de ceinture droit",
+
+	IGUI_HotbarAttachment_KATTAJ1hipLeftSheath = "Fourreau de hanche gauche",
+    IGUI_HotbarAttachment_KATTAJ1hipArmorLeftSheath = "Fourreau de hanche sur l'armure gauche",
+    IGUI_HotbarAttachment_KATTAJ1beltLeftSheath = "Fourreau de ceinture gauche",
+    IGUI_HotbarAttachment_KATTAJ1hipRightSheath = "Fourreau de hanche droit",
+    IGUI_HotbarAttachment_KATTAJ1hipArmorRightSheath = "Fourreau de hanche sur l'armure droite",
+    IGUI_HotbarAttachment_KATTAJ1beltRightSheath = "Fourreau de ceinture droit",
+    IGUI_HotbarAttachment_KATTAJ1BackSheath = "Fourreau de dos"
+
+	IGUI_ItemCat_KATTAJ1_BulletproofVest = "Gilet Pare-Balle",
+	IGUI_ItemCat_KATTAJ1_ArmsProtectionUpper = "Protection Supérieure des Bras",
+	IGUI_ItemCat_KATTAJ1_ArmsProtectionLower = "Protection Inférieure des Bras",
+	IGUI_ItemCat_KATTAJ1_LegsProtectionUpper = "Protection Supérieure des Jambes",
+	IGUI_ItemCat_KATTAJ1_LegsProtectionLower = "Protection Inférieure des Jambes",
+}

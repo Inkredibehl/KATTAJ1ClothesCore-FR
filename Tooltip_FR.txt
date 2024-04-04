@@ -1,0 +1,3 @@
+Tooltip_FR = {
+	Tooltip_KATTAJ1_TacticalFlashlight = "Lampe de poche fabriquée par KATTAJ1 Industries. Fournit la lumière là où elle a complètement disparu. Durable et fiable. Peut être monté sur certains casques KATTAJ1"
+}

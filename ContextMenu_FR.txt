@@ -1,0 +1,38 @@
+ContextMenu_FR = {
+    	ContextMenu_AttachHolsterToHipLeft = "Attacher à la hanche gauche",
+    ContextMenu_AttachHolsterToHipArmorLeft = "Attacher à l'armure de la hanche gauche",
+    ContextMenu_AttachHolsterToBeltLeft = "Attacher sur le côté gauche de la ceinture",
+    ContextMenu_AttachHolsterToHipRight = "Attacher à la hanche droite",
+    ContextMenu_AttachHolsterToHipArmorRight = "Attacher à l'armure de la hanche droite",
+    ContextMenu_AttachHolsterToBeltRight = "Attacher sur le côté droit de la ceinture",
+
+   	ContextMenu_AttachPouchToHipLeft = "Attacher sur le côté gauche",
+    ContextMenu_AttachPouchToHipRight = "Attacher sur le côté droit",
+    ContextMenu_AttachPouchToHipLeftOnArmor = "Attacher sur le côté gauche de l'armure",
+    ContextMenu_AttachPouchToHipRightOnArmor = "Attacher sur le côté droit de l'armure",
+
+    	ContextMenu_AttachSheathToHipLeft = "Attacher à la hanche gauche",
+    ContextMenu_AttachSheathToHipArmorLeft = "Attacher à l'armure de la hanche gauche",
+    ContextMenu_AttachSheathToBeltLeft = "Attacher sur le côté gauche de la ceinture",
+    ContextMenu_AttachSheathToHipRight = "Attacher à la hanche droite",
+    ContextMenu_AttachSheathToHipArmorRight = "Attacher à l'armure de la hanche droite",
+    ContextMenu_AttachSheathToBeltRight = "Attacher sur le côté droit de la ceinture",
+    ContextMenu_AttachSheathToBack = "Attacher dans le dos",
+
+    ContextMenu_NoBelts = "Sans ceinture",
+    ContextMenu_WithBelts = "Avec ceintures",
+
+    ContextMenu_ShirtMan = "Homme",
+    ContextMenu_ShirtFemale = "Femme",
+
+    ContextMenu_PutOn = "Mettre",
+
+    ContextMenu_JacketOpen = "Ouvrir",
+    ContextMenu_JacketOpenRolledUpSleeves = "Manches retroussées ouvertes",
+    ContextMenu_JacketRolledUpSleeves = "Manches retroussées",
+    ContextMenu_DownHoodieOpen = "Hood Down Open",
+    ContextMenu_UpHoodieOpen = "Hood Up Open",
+
+    ContextMenu_RollUpPants = "Retrousser",
+    ContextMenu_TuckPants = "Rentrer",
+} 
